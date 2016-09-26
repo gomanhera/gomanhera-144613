@@ -4,6 +4,7 @@ runtime: python27
 api_version: 1
 threadsafe: yes
 
+
 handlers:
 - url: /bower_components
   static_dir: build/bundled/bower_components
